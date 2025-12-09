@@ -1,0 +1,1 @@
+printf("Debug: %c %d %d\n", 'a' + i, frq1[i], frq2[i]);
