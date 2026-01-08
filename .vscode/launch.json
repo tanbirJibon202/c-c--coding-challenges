@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/C-Programming/multiDimentionalArray",
-      "program": "d:/C-Programming/multiDimentionalArray/build/Debug/outDebug",
+      "cwd": "d:/C-Programming/ConstructiveAlgorithm",
+      "program": "d:/C-Programming/ConstructiveAlgorithm/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
