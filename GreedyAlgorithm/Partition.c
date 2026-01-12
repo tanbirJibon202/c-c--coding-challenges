@@ -9,7 +9,7 @@ int main()
     scanf("%d", &x);
     if (x < 0)
     {
-      ans = ans + -x;
+      ans += -x;
     }
     else
       ans = ans + x;
