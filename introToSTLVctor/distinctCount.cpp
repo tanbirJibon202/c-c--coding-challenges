@@ -37,6 +37,5 @@ int main()
     else
       cout << "Average" << '\n';
   }
-
   return 0;
 }
