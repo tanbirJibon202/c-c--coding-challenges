@@ -189,6 +189,7 @@ int main(){
     // All Substrings
     string a = "abc";
     int n = a.size();
+    cout<<n<<endl;
     for (int startPos = 0; startPos < n; startPos++) {
         // startPos
         // startPos, startPos+1...end
