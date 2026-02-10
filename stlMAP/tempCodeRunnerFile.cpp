@@ -1,0 +1,1 @@
+allMarks[name] += marks;
