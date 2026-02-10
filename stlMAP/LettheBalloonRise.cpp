@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-int manin()
-{
+int main(){
   return 0;
 }
