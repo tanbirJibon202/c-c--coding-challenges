@@ -1,0 +1,11 @@
+{1, 2, 2, 3, 4, 7, 7, 20, 30, 31}
+upper bound of 7 in this vector is 7
+
+newVec = {1, 7, 7}
+upper bound of 7 in newVec = 3
+
+newVec2 = {1, 2, 4, 8, 9}
+upper bound of 7 in newVec2 = 3
+
+newVec3 = {1, 2, 4, 6}
+upper bound of 7 in newVec3 = 4
