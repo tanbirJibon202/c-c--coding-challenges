@@ -2,18 +2,14 @@
 using namespace std;
 
 int main() {
-    
     string s;
     cin >> s;
-
     queue<char> qu;
     for(char ch : s){
         qu.push(ch);
     }
-
     deque<char> window;
     map<char,int> cnt;
-
     for(int i = 0; i < s.size(); i++)
     {
         window.push_back(qu.front());
@@ -23,10 +19,7 @@ int main() {
             break;
         }
     }
-
     int mn = s.size();
-
-
     while(1)
     {
         // cout << window.size() << endl;
@@ -47,7 +40,6 @@ int main() {
                 }
             }
         }
-
         window.pop_front();
         cnt[element]--;
 
